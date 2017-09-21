@@ -1,0 +1,21 @@
+# IDEs
+.project
+.pydevproject
+.idea
+.vscode
+.settings
+.DS_Store
+.jshintrc
+*.sw?
+.ropeproject
+
+
+dist/
+
+
+node_modules/
+npm-debug.log
+.cache
+package-lock.json
+
+
